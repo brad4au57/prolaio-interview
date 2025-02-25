@@ -1,0 +1,7 @@
+# Not Needed in GitHub
+node_modules
+package-lock.json
+
+cypress/downloads/
+cypress/videos/
+cypress/screenshots/
